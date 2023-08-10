@@ -12,6 +12,7 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 
 | Notebook Name | Colab Link  | Tasks  |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|
+| SDXL 1.0 with T2I Adapter, ControlNet, Inpainting and train LoRA| [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SDXL_1_0_with_T2I_Adapter_ControlNet_Inpainting_Train_Lora.ipynb) |`text-to-image` `stable-diffusion`  `LoRA` `inpainting`          |
 | llama-cpp-python with  Llama 2 13B-chat | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/LLM_Inference_with_llama_cpp_python__Llama_2_13b_chat.ipynb) |`text-generation` `GGML` `Llama 2`                   |
 | AutoGPTQ with WizardCoder 15B  | [![Open](assets/colab.svg)](https://colab.research.google.com/github/r3gm/InsightSolver-Colab/blob/main/LLM_Inference_with_AutoGPTQ_WizardCoder_15B.ipynb) |`text-generation` `GPTQ` `WizardCoder`                   |
 | SDXL 0.9  | [![Open](assets/colab.svg)](https://colab.research.google.com/github/r3gm/InsightSolver-Colab/blob/main/SDXL_0_9.ipynb) |`text-to-image` `stable-diffusion`                    |
