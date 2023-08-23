@@ -12,6 +12,7 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 
 | Notebook Name | Colab Link  | Tasks  |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|
+| SeamlessM4T: Multimodal model for speech translation | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SeamlessM4T.ipynb) |`translation` `speech-to-speech` `speech-to-text` `text-to-speech`           |
 | Alternatives to Stable Diffusion "WebUI" on Google Colab's Free Tier | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/Stable_Diffusion_Web_UI_Alternatives_in_Colab.ipynb) |`text-to-image` `stable-diffusion`          |
 | SDXL 1.0 with T2I Adapter, ControlNet, Inpainting and train LoRA| [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SDXL_1_0_with_T2I_Adapter_ControlNet_Inpainting_Train_Lora.ipynb) |`text-to-image` `stable-diffusion`  `LoRA` `inpainting`          |
 | llama-cpp-python with  Llama 2 13B-chat | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/LLM_Inference_with_llama_cpp_python__Llama_2_13b_chat.ipynb) |`text-generation` `GGML` `Llama 2`                   |
