@@ -1,6 +1,6 @@
 
 # InsightSolver: 
-- Colab notebooks for exploring and solving operational issues using deep learning, machine learning, and related models.
+- Colab notebooks for exploring and solving operational issues using deep learning, machine learning, and related topics.
 
 Welcome to my Cool Repo! 🤓
 
@@ -12,6 +12,7 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 
 | Notebook Name | Colab Link  | Tasks  |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|
+| WizardCoder-Python-34B on Colab's free tier - GGUF | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/LLM_Inference_with_llama_cpp_python__Llama_2_13b_chat.ipynb) |`text-generation` `GGUF` `GGML` `WizardCoder`                   |
 | SeamlessM4T: Multimodal model for speech translation | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SeamlessM4T.ipynb) |`translation` `speech-to-speech` `speech-to-text` `text-to-speech`           |
 | Alternatives to Stable Diffusion "WebUI" on Google Colab's Free Tier | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/Stable_Diffusion_Web_UI_Alternatives_in_Colab.ipynb) |`text-to-image` `stable-diffusion`          |
 | SDXL 1.0 with T2I Adapter, ControlNet, Inpainting and train LoRA| [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SDXL_1_0_with_T2I_Adapter_ControlNet_Inpainting_Train_Lora.ipynb) |`text-to-image` `stable-diffusion`  `LoRA` `inpainting`          |
@@ -76,7 +77,11 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 
 
 
-# License
+## License
 Although the code can be Apache 2 or MIT, the models or weights may have commercial restrictions.
+This repository is intended for educational purposes, and you are encouraged to use the code and notebooks to learn and explore about this topics.
+
+## Questions and Discussions
+If you have any questions about the licensing, usage, or anything else related to this repository, feel free to open a discussion or raise an issue.
 
 
