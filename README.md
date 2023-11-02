@@ -12,6 +12,7 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 
 | Notebook Name | Colab Link  | Tasks  |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|
+| Latent Consistency Models: Synthesizing High-Resolution Images with Few-step Inference | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/Latent_Consistency_Models.ipynb) | `text-to-image` `image-to-image` `video-to-video` `stable-diffusion`    |
 | SadTalker: A realistic and stylized talking head video generation method from a single image and audio | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SadTalker.ipynb) |`image-to-video` `video-generation`                   |
 | WizardCoder-Python-34B on Colab's free tier - GGUF | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/LLM_Inference__GGUF__WizardCoder_Python_34B.ipynb) |`text-generation` `GGUF` `GGML` `WizardCoder`                   |
 | SeamlessM4T: Multimodal model for speech translation | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SeamlessM4T.ipynb) |`translation` `speech-to-speech` `speech-to-text` `text-to-speech`           |
