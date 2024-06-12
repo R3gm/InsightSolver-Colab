@@ -12,7 +12,7 @@ The vast majority of notebooks are designed to run on the Colab free tier.
 
 | Notebook Name | Colab Link  | Tasks  |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|
-| Stable Diffusion 3 (Test) | [![Open](assets/colab.svg)](https://github.com/R3gm/InsightSolver-Colab/blob/main/SD3.ipynb) |`text-to-image` `stable-diffusion`                    |
+| Stable Diffusion 3 (Test) | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SD3.ipynb) |`text-to-image` `stable-diffusion`                    |
 | Wonder 3D: Single Image to 3D using Cross-Domain Diffusion | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/Wonder_3D.ipynb) | `image-to-3D` `stable-diffusion` |
 | Latent Consistency Models: Synthesizing High-Resolution Images with Few-step Inference | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/Latent_Consistency_Models.ipynb) | `text-to-image` `image-to-image` `video-to-video` `stable-diffusion`    |
 | SadTalker: A realistic and stylized talking head video generation method from a single image and audio | [![Open](assets/colab.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/SadTalker.ipynb) |`image-to-video` `video-generation`                   |
